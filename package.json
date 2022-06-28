@@ -1,0 +1,23 @@
+{
+  "name": "trainproblem",
+  "version": "1.0.0",
+  "description": "This project is used to make solution for the Train problem",
+  "main": "geektrust.js",
+  "scripts": {
+    "start": "node geektrust.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "train",
+    "problem",
+    "geektrust",
+    "node",
+    "graph",
+    "stack"
+  ],
+  "author": "Roop Kumar R",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
